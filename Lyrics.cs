@@ -5,13 +5,13 @@
 
 using System;
 using static System.Console;
-class PersonalInfo
+class Lyrics
 {
    static void Main()
    {
-      WriteLine("Lucinda Potter");
-      WriteLine("6/24/1992");
-      WriteLine("work 000-555-0101");
-      WriteLine("cell 000-555-0189");
+      WriteLine("You said to come when you're ready");
+      WriteLine(" And I've been taking my time");
+      WriteLine(" Burn all the wreckage");
+      WriteLine("And start it all over");
    }
 }
